@@ -1,0 +1,67 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc",
+      "title": "Manager"
+    },
+    {
+      "name": "Streator Ward",
+      "title": "I'm the best",
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 3,
+      "name": "Angus",
+      "breed": "German Shepard"
+    },
+    {
+      "name": "test v4",
+      "breed": "test v4",
+      "employeeId": 5,
+      "id": 5
+    },
+    {
+      "name": "test",
+      "breed": "test",
+      "employeeId": 3,
+      "id": 7
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Ryan Tanay",
+      "info": "they nice"
+    },
+    {
+      "id": 2,
+      "name": "Emma Beaton",
+      "info": "they nice"
+    },
+    {
+      "id": 3,
+      "name": "Dani Adkins",
+      "info": "they nice"
+    },
+    {
+      "id": 6,
+      "name": "Angela Lee",
+      "info": "they nice"
+    }
+  ]
+}
